@@ -1,0 +1,39 @@
+.test {
+    height: 200px;
+    width: 200px;
+    border: 2px solid blue;
+}
+header{
+    height: 30px;
+    width: 100%;
+    background-color: lightgray;
+}
+.jordan{
+    height: 24px;
+    width: 24px;
+}
+.cart{
+    margin:auto;
+}
+img {
+    height: 200px;
+    width:auto;
+    border: 15px solid blue;
+    
+}
+div{
+    
+}
+ul{
+    list-style: none;
+}
+
+li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    text-align: -webkit-match-parent;
+}
